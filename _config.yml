@@ -32,7 +32,7 @@ github_username:  jekyll
 locale: "en-US"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
